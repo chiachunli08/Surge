@@ -1,0 +1,6 @@
+#!name=Boost Bandwidth
+#!desc=00:05 once v20220822.01
+#!system=ios
+
+[Script]
+cron "5 0 * * *" script-path=https://raw.githubusercontent.com/chiachunli08/Surge/master/JS/getspeedtestconfig.js
